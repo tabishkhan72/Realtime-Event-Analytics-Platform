@@ -69,27 +69,6 @@ realtime-analytics-platform/
 
 ---
 
-
-## 🖥️ Usage
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-username>/realtime-analytics-platform.git
-cd realtime-analytics-platform
-```
-
-
-### 2. Start services
-```bash
-docker-compose up --build
-```
-
-
-### 3. Access the platform
-- Ingestion API: [http://localhost:8000/docs](http://localhost:8000/docs)
-- Analytics API: [http://localhost:8002/docs](http://localhost:8002/docs)
-- Dashboard: [http://localhost:3000](http://localhost:3000)
-
-
 ---
 
 
