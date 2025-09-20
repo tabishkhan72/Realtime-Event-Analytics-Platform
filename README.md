@@ -1,7 +1,7 @@
 # Realtime Event Analytics Platform
 
 
-A **scalable microservices-based system** for ingesting, processing, and visualizing realtime events. This project highlights distributed systems design, data streaming, caching, and cloud-native deployment practices — making it a strong showcase for SDE roles.
+A **scalable microservices-based system** for ingesting, processing, and visualizing realtime events. This project highlights distributed systems design, data streaming, caching, and cloud-native deployment practices, making it a strong showcase for SDE roles.
 
 
 ---
