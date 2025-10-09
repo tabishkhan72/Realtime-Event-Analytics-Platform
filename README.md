@@ -12,10 +12,10 @@ A **scalable microservices-based system** for ingesting, processing, and visuali
 - **Stream Processing**: Kafka consumer that updates Redis for realtime stats and persists events to PostgreSQL.
 - **Analytics API**: FastAPI service exposing REST endpoints for realtime and historical analytics.
 - **Realtime Dashboard**: React-based UI to visualize metrics and trends with live updates.
-- **Caching**: Redis for low-latency reads.
-- **Persistence**: PostgreSQL for durable event storage.
-- **Deployment**: Docker Compose for local dev, Kubernetes manifests for scalable cloud deployment.
-- **CI/CD Ready**: Can be extended with GitHub Actions for automated testing and deployment.
+- **Caching**: Redis for low-latency reads
+- **Persistence**: PostgreSQL for durable event storage
+- **Deployment**: Docker Compose for local dev, Kubernetes manifests for scalable cloud deployment
+- **CI/CD Ready**: Can be extended with GitHub Actions for automated testing and deployment
 
 
 ---
